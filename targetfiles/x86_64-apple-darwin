@@ -1,0 +1,17 @@
+[binaries]
+c = 'x86_64-apple-darwin21.4-clang'
+objc = 'x86_64-apple-darwin21.4-clang'
+objcpp = 'x86_64-apple-darwin21.4-clang++'
+cpp = 'x86_64-apple-darwin21.4-clang++'
+ar = 'x86_64-apple-darwin21.4-ar'
+strip = 'x86_64-apple-darwin21.4-strip'
+pkgconfig = 'x86_64-apple-darwin21.4-pkg-config'
+
+[host_machine]
+system = 'darwin'
+cpu_family = 'x86_64'
+cpu = 'x86_64'
+endian = 'little'
+
+[properties]
+somekey = 'somevalue'

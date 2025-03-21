@@ -1,0 +1,8 @@
+.vscode
+builddir
+compile_commands.json
+.cache
+!.vscode/launch.json
+builddir-windows
+builddir-macos
+dlls

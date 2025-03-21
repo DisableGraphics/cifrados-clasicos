@@ -14,9 +14,7 @@ En el primer argumento sólo se puede poner -d ó -e. -d significa descifrar y -
 El mensaje es el mensaje en claro / texto cifrado. Hay que ponerlo entrecomillado si tiene espacios. `"ESTE ES UN MENSAJE"`
 Key es la clave. También hay que ponerla entrecomillada si tiene espacios. `"CLAVE QUE ES MUY BUENA"`
 
-Hay otros programas que no tienen las mismas opciones, como por ejemplo que tengan varias claves o que tengan otros argumentos.
-
-Los más notorios son:
+Hay otros programas que no tienen las mismas opciones, como por ejemplo que tengan varias claves o que tengan otros argumentos:
 - Cifrado **César**: permite, además de -d o -e, permite -b, en el que descrifra por fuerza bruta y **descarta la clave** que se ha puesto.
 **La clave es un número (número de posiciones hacia la derecha de desplazamiento), no una letra**
 **Es obligatorio introducir la clave incluso si se descarta.**
